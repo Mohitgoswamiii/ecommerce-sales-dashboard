@@ -1,8 +1,8 @@
 ## E-commerce Sales Dashboard
 
-#An interactive Power BI report that provides end-to-end insights into e-commerce sales performance.
+# An interactive Power BI report that provides end-to-end insights into e-commerce sales performance.
 
-#🔍 Features
+# 🔍 Features
 
 Key Metrics: Total Sales, Quantity, Profit, and Average Order Value (AOV).
 
@@ -17,7 +17,7 @@ Time Series: Monthly profit trends with quarter-level slicers.
 Interactive: Slicers, drill-through pages, and custom visuals for deep exploration.
 
 
-#🛠 Technologies
+# 🛠 Technologies
 
 Power BI Desktop (Power Query & Data Modeling)
 
