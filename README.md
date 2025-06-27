@@ -1,4 +1,4 @@
-E-commerce Sales Dashboard
+#E-commerce Sales Dashboard
 
 An interactive Power BI report that provides end-to-end insights into e-commerce sales performance.
 
